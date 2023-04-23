@@ -2,7 +2,7 @@
 
 ## Description :-
 
-Created Interactive dashboard to tarck and analyze online sales data. Used different types of customized visualization.
+Created Interactive dashboard to track and analyze online sales data. Used different types of customized visualization.
 
 ## Screenshot :-
 
